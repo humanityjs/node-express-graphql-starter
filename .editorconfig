@@ -1,0 +1,2 @@
+eslint.options.configFile = "./eslintrc.json"
+prettier-eslint.eslintPath = "./eslintrc.json"
